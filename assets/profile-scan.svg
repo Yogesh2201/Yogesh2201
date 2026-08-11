@@ -1,5 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
-  <rect width="850" height="220" fill="#0d1117" />
-  <text x="50%" y="45%" fill="#00ffcc" font-family="Fira Code, monospace" font-size="24" text-anchor="middle">Profile scan placeholder</text>
-  <text x="50%" y="60%" fill="#8b949e" font-family="Fira Code, monospace" font-size="16" text-anchor="middle">Replace this file with the real SVG after setup</text>
+<svg width="820" height="360" viewBox="0 0 820 360" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', ui-monospace, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050b08"/>
+      <stop offset="100%" stop-color="#0a1712"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="358" rx="14" fill="url(#bg)" stroke="#25493a" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="24" r="6" fill="#27c93f"/>
+  <text x="400" y="29" fill="#4d7a68" font-size="13" text-anchor="middle">yogesh2201@github ~ % ./profile-scan --live</text>
+  <line x1="0" y1="46" x2="820" y2="46" stroke="#1c3229" stroke-width="1"/>
+
+  <!-- left: dot-matrix portrait placeholder -->
+  <circle cx="200" cy="210" r="120" fill="url(#glow)"/>
+  <g fill="#39ff14">
+    <circle cx="200" cy="105" r="3"/><circle cx="180" cy="115" r="2.5"/><circle cx="220" cy="115" r="2.5"/>
+    <circle cx="160" cy="130" r="2"/><circle cx="240" cy="130" r="2"/><circle cx="200" cy="130" r="3"/>
+    <circle cx="150" cy="155" r="2.5"/><circle cx="250" cy="155" r="2.5"/><circle cx="190" cy="150" r="2"/><circle cx="210" cy="150" r="2"/>
+    <circle cx="145" cy="185" r="2"/><circle cx="255" cy="185" r="2"/><circle cx="175" cy="180" r="3"/><circle cx="225" cy="180" r="3"/>
+    <circle cx="150" cy="215" r="2.5"/><circle cx="250" cy="215" r="2.5"/><circle cx="200" cy="210" r="4"/>
+    <circle cx="165" cy="245" r="2"/><circle cx="235" cy="245" r="2"/><circle cx="200" cy="250" r="3"/>
+    <circle cx="180" cy="275" r="2.5"/><circle cx="220" cy="275" r="2.5"/>
+    <circle cx="160" cy="300" r="2"/><circle cx="240" cy="300" r="2"/><circle cx="200" cy="300" r="3"/>
+    <circle cx="140" cy="320" r="2"/><circle cx="260" cy="320" r="2"/>
+  </g>
+  <text x="200" y="345" fill="#2f6e56" font-size="11" text-anchor="middle">[ profile scan: rendering... ]</text>
+
+  <line x1="380" y1="60" x2="380" y2="345" stroke="#1c3229" stroke-width="1"/>
+
+  <!-- right: info panel -->
+  <g font-size="14">
+    <text x="410" y="80" fill="#4d7a68">Handle</text>
+    <text x="640" y="80" fill="#39ff14" text-anchor="end">Yogesh2201</text>
+
+    <text x="410" y="112" fill="#4d7a68">Role</text>
+    <text x="790" y="112" fill="#e8fff5" text-anchor="end">Aspiring Data Scientist</text>
+
+    <text x="410" y="144" fill="#4d7a68">Status</text>
+    <text x="790" y="144" fill="#e8fff5" text-anchor="end">Learning • Building • Shipping</text>
+
+    <text x="410" y="176" fill="#4d7a68">Languages</text>
+    <text x="790" y="176" fill="#e8fff5" text-anchor="end">Python, SQL</text>
+
+    <text x="410" y="208" fill="#4d7a68">Repositories</text>
+    <text x="790" y="208" fill="#39ff14" text-anchor="end">--</text>
+
+    <text x="410" y="240" fill="#4d7a68">Contributions</text>
+    <text x="790" y="240" fill="#39ff14" text-anchor="end">--</text>
+
+    <text x="410" y="272" fill="#4d7a68">Stars</text>
+    <text x="790" y="272" fill="#39ff14" text-anchor="end">--</text>
+
+    <text x="410" y="304" fill="#4d7a68">Followers</text>
+    <text x="790" y="304" fill="#39ff14" text-anchor="end">--</text>
+
+    <text x="410" y="336" fill="#4d7a68">Contact</text>
+    <text x="790" y="336" fill="#7fd8ff" text-anchor="end">github.com/Yogesh2201</text>
+  </g>
 </svg>
