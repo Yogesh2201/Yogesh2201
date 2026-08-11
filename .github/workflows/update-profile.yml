@@ -1,0 +1,28 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub metrics SVG
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_title=false&title_color=00ffcc&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" -o assets/github-metrics.svg
+
+      - name: Commit updated metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update profile metrics'
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <rect width="850" height="220" fill="#0d1117" />
+  <text x="50%" y="45%" fill="#00ffcc" font-family="Fira Code, monospace" font-size="24" text-anchor="middle">Profile scan placeholder</text>
+  <text x="50%" y="60%" fill="#8b949e" font-family="Fira Code, monospace" font-size="16" text-anchor="middle">Replace this file with the real SVG after setup</text>
+</svg>
