@@ -1,90 +1,70 @@
-<!--
-  ┌───────────────────────────────────────────────────────────────┐
-  │  👨‍💻 YOGESH KUMAR — GitHub Profile README (Reel Style)        │
-  │                                                               │
-  │  This file lives in the special repository:                   │
-  │      https://github.com/Yogesh2201/Yogesh2201                 │
-  │                                                               │
-  │  ✏️  How to personalise:                                      │
-  │   1. Search for "TODO" in this file and replace placeholders. │
-  │   2. Put your real LinkedIn / email / Kaggle links in the     │
-  │      "Connect" section.                                       │
-  │   3. Point the Featured Projects to your real repositories.   │
-  │   4. The stats cards, activity graph, view counter and        │
-  │      contribution snake update automatically.                 │
-  └───────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
-# 👨‍💻 YOGESH KUMAR
+# Yogesh Kumar
 
-### 🧠 Data Science & AI/ML Researcher
+### Data Analyst &nbsp;·&nbsp; Python · SQL · Power BI
 
-**Python • Statistics • Machine Learning • Financial Analysis**
+I turn messy datasets into decisions someone can act on — and I report the flat lines, not just the findings.
+
+<p>
+  <a href="https://www.linkedin.com/in/yogesh-kumar-9b78b11b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yogeshverma6595@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Agra%2C%20India-10243F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%26%20NCR-2EA043?style=for-the-badge" alt="Open to work" />
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Yogesh2201">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1100&color=00FFCC&center=true&vCenter=true&width=660&height=45&lines=Building+the+future+with+Data+Science+%26+AI%2FML;Python+%7C+Statistics+%7C+Machine+Learning+%7C+Finance;Currently+learning+%E2%9C%A6+one+model+at+a+time;Turning+data+into+decisions" alt="Typing animation — Yogesh Kumar" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogesh2201&style=for-the-badge&color=00ffcc&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Yogesh2201?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00ffcc" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Collaborations-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
-</p>
+## 👋 About me
+
+Computer Science graduate (B.Tech, 2024) with a Data Science certification and three end-to-end analytics projects. I work mostly in Python and SQL, and I build the dashboard in Power BI so the finding doesn't stay trapped in a notebook.
+
+The part of the job I'm actually good at is the unglamorous half: auditing dirty data before trusting it, saying what the numbers do *and do not* support, and putting the answer on one screen for someone who will never open a notebook.
+
+**Currently looking for:** Data Analyst roles — remote, or Agra / Delhi NCR.
 
 ---
 
-## 🖥️ Profile Scan
-
-<p align="center">
-  <img src="./assets/profile-scan.svg" width="850" alt="Terminal profile scan for Yogesh Kumar" />
-</p>
-
----
-
-## 👤 About Me
+## 🚀 Featured work
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### 👋 Hello, I'm Yogesh!
+### 📊 Credit Risk & Identity Fraud Analysis
 
-I'm a **Data Science & AI/ML Researcher** currently learning and building
-projects around **Python, statistics, machine learning and financial
-analysis**.
+**100,000 credit-bureau records · 28 columns · Python, SQL, Power BI**
 
-- 🔭 Currently working on data-driven research projects
-- 🌱 Deep-diving into **Machine Learning & Statistics**
-- 👯 Open to collaborating on **Data Science / AI-ML** projects
-- 💬 Ask me about **Python, ML, Statistics, Finance & Data**
-- ⚡ Fun fact: I can find insights in almost any dataset 📊
+Established what actually separates a Good credit score from a Poor one, after cleaning five distinct data defects. Found debt is the strongest divider (**2.6× higher for Poor customers**) while credit utilisation — the metric everyone expects to matter — was **flat across all three classes (r = +0.046)**. Flagged **1,829 names holding 2–6 SSNs**, covering 33,608 rows, as an identity-fraud check.
+
+Shipped as a **3-page Power BI report with 32 visuals**.
+
+<a href="https://github.com/Yogesh2201/paisabazaar-banking-fraud-analysis">
+  <img src="https://img.shields.io/badge/Read%20the%20analysis-10243F?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+</a>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Quick Stats
+### 🎟️ BookMyShow — Relational Data Model
 
-<p align="center">
+**18 tables · 565 lines of PostgreSQL DDL · 6 enums · ~40 constraints**
 
-<!-- 🚀 Auto-updates via GitHub API -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYogesh2201&query=public_repos&label=Repositories&style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="Repositories" />
-<img src="https://img.shields.io/github/followers/Yogesh2201?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0d1117" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYogesh2201&query=following&label=Following&style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="Following" />
-<img src="https://komarev.com/ghpvc/?username=Yogesh2201&style=for-the-badge&color=0d1117&label=Profile+Views" alt="Profile views" />
+A ticketing schema built around one hard constraint: **a seat for a 7:30 PM show can be sold exactly once.** Seat holds with expiry, partial refunds expressed per charge line, and idempotent payments — each one answering a real failure mode from the platform.
 
-</p>
+`UNIQUE (show_id, seat_id)` means the database rejects the second booking, not the application.
 
-### 🎯 Current Focus
-
-🐍 Python &nbsp;•&nbsp; 📊 Statistics &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 📈 Financial Analysis &nbsp;•&nbsp; 💻 DSA
+<a href="https://github.com/Yogesh2201/bookmyshow-data-model">
+  <img src="https://img.shields.io/badge/Read%20the%20schema-10243F?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+</a>
 
 </td>
 
@@ -93,180 +73,37 @@ analysis**.
 
 ---
 
-## 📊 Stats Dashboard
+## 🛠️ Tools I actually use
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYogesh2201&query=public_repos&label=%F0%9F%93%A6+Repositories&style=for-the-badge&color=00ffcc&logo=github&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/github/followers/Yogesh2201?style=for-the-badge&logo=github&label=%F0%9F%91%A5+Followers&color=00ffcc&logoColor=white" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=Yogesh2201&style=for-the-badge&color=00ffcc&label=%F0%9F%91%80+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/%E2%AD%90+Stars-Growing-00ffcc?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sklearn,tensorflow,git,github,vscode&perline=8" alt="Python, SQL, PostgreSQL, scikit-learn, TensorFlow, Git, GitHub, VS Code" />
 </p>
 
-<table>
-<tr>
+| | |
+|---|---|
+| **Languages** | Python (pandas, NumPy, Matplotlib, scikit-learn), SQL, Java |
+| **Analysis** | EDA, data cleaning, statistical analysis, correlation & IQR outlier treatment, data-quality auditing, KPI definition |
+| **SQL & modelling** | PostgreSQL, multi-table joins, schema design, normalisation, ER modelling, constraints and enums |
+| **BI** | Power BI (multi-page reports, KPI cards), Tableau, Matplotlib |
+| **ML** | scikit-learn, TensorFlow, Keras, CNN, data augmentation, model evaluation |
 
-<td align="center" width="50%">
-  <a href="https://github.com/Yogesh2201">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yogesh2201&show_icons=true&count_private=true&hide_title=false&title_color=00ffcc&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub stats" width="100%" />
-  </a>
-</td>
+---
 
-<td align="center" width="50%">
-  <a href="https://github.com/Yogesh2201">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh2201&layout=compact&langs_count=8&title_color=00ffcc&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top languages" width="100%" />
-  </a>
-</td>
-
-</tr>
-</table>
+## 📈 GitHub activity
 
 <p align="center">
-  <a href="https://github.com/Yogesh2201">
-    <img src="https://streak-stats.demolab.com/?user=Yogesh2201&theme=dark&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ffcc&sideLabels=8b949e" alt="GitHub streak" width="70%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh2201&show_icons=true&count_private=true&title_color=0B5FC0&icon_color=0B5FC0&text_color=1F1B2E&bg_color=ffffff&hide_border=true&border_radius=8" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh2201&layout=compact&langs_count=6&title_color=0B5FC0&text_color=1F1B2E&bg_color=ffffff&hide_border=true&border_radius=8" alt="Top languages" height="165" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📬 Get in touch
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh2201&theme=green-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
+The fastest way to reach me is email — **yogeshverma6595@gmail.com**.
 
----
-
-## 🧠 Currently Learning
-
-<table>
-<tr>
-<td align="center">🐍 Python</td>
-<td align="center">📊 Statistics</td>
-<td align="center">🤖 Machine Learning</td>
-</tr>
-<tr>
-<td align="center">🧮 Probability</td>
-<td align="center">📈 Financial Analysis</td>
-<td align="center">💻 Data Structures &amp; Algorithms</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn,tensorflow,pytorch,jupyter,sqlite,git,github,vscode&perline=12" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <b>Languages:</b> Python, SQL &nbsp;&nbsp;•&nbsp;&nbsp; <b>ML / DS:</b> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib &nbsp;&nbsp;•&nbsp;&nbsp; <b>Tools:</b> Jupyter, Git, GitHub, VS Code
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 📊 Stock Research System
-
-Financial research system for analyzing:
-
-- Revenue growth
-- Profitability
-- Valuation & DCF
-- Financial red flags
-
-**Tech:** `Python` `Pandas` `APIs` `Data Analysis`
-
-<p align="center">
-  <a href="https://github.com/Yogesh2201/stock-research-system"><!-- TODO: replace with your repo URL -->
-    <img src="https://img.shields.io/badge/View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
-  </a>
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🤖 AI Research Assistant
-
-An AI-powered research workflow for collecting, processing and analyzing information.
-
-- Automated data gathering
-- LLM-powered analysis
-- Insight summaries
-
-**Tech:** `Python` `APIs` `LLMs`
-
-<p align="center">
-  <a href="https://github.com/Yogesh2201/ai-research-assistant"><!-- TODO: replace with your repo URL -->
-    <img src="https://img.shields.io/badge/View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
-  </a>
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🧠 Data Science & ML Portfolio
-
-A growing collection of Data Science & Machine Learning projects, notebooks and experiments.
-
-- Exploratory data analysis
-- Model building & evaluation
-- Real-world datasets
-
-**Tech:** `Python` `Jupyter` `Scikit-learn` `Pandas`
-
-<p align="center">
-  <a href="https://github.com/Yogesh2201/data-science-portfolio"><!-- TODO: replace with your repo URL -->
-    <img src="https://img.shields.io/badge/View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
-  </a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="./assets/github-snake.svg" width="95%" alt="Contribution snake — generated daily by GitHub Actions" />
-</p>
-
-<sup>_The snake is generated automatically every day by the `snake.yml` workflow — it will appear after the first workflow run._</sup>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Yogesh2201">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-username"><!-- TODO: replace with your LinkedIn URL -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com"><!-- TODO: replace with your email -->
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.kaggle.com/your-username"><!-- TODO: replace with your Kaggle URL -->
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
-
----
+I reply to every message about data work, and I'm happy to walk through any project in this profile line by line.
 
 <div align="center">
-
-**Made with 💚 by Yogesh Kumar** — thanks for visiting! ⭐ Star my repos if you like what you see.
-
+<sub>Agra, Uttar Pradesh, India · Open to remote and Delhi NCR roles</sub>
 </div>
