@@ -7,6 +7,9 @@
 I turn messy datasets into decisions someone can act on — and I report the flat lines, not just the findings.
 
 <p>
+  <a href="https://yogesh2201.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0B5FC0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yogesh-kumar-9b78b11b9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -28,6 +31,8 @@ Computer Science graduate (B.Tech, 2024) with a Data Science certification and t
 The part of the job I'm actually good at is the unglamorous half: auditing dirty data before trusting it, saying what the numbers do *and do not* support, and putting the answer on one screen for someone who will never open a notebook.
 
 **Currently looking for:** Data Analyst roles — remote, or Agra / Delhi NCR.
+
+📄 **Full case studies: [yogesh2201.github.io](https://yogesh2201.github.io)**
 
 ---
 
